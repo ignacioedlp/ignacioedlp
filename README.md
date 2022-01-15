@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
   <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 
 </div>
-
-
+<div ><a href="https://app.daily.dev/Ignacioedlp"><img src="https://api.daily.dev/devcards/982211b5ab2b476392c7c66f7f91b05d.png?r=ggd" width="400" alt="Ignacio Cafiero Torrubia's Dev Card"/></a>
+</div>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignacioedlp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
