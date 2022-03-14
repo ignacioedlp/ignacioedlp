@@ -22,33 +22,19 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.instagram.com/tofiedlp1/"><img src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/></a>
 </div>
 
-<div>
-  <h1>Technologies</h1>
-  <div>
-  <h2>Languages</h2>
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img src="https://img.icons8.com/ios/30/000000/solidity.png"/>
-  </div>
-  <div>
-  <h2>DevOps & Tools</h2>
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  </div>
-</div>
+<h1>Technologies</h1>
 
+<h2>Languages</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,nextjs,jquery,php,mysql,mongodb,postgresql,prisma,laravel,solidity)](https://skillicons.dev)
+
+<h2>Design</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,bootstrap,materialui)](https://skillicons.dev)
+
+<h2>DevOps & Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=git,vim,vscode,linux,eclipse)](https://skillicons.dev)
 
 # 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ignacioedlp&theme=dracula&hide_border=true)
