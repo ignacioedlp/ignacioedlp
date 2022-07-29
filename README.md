@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignacioedlp&show_icons=true&locale=en" alt="ignacioedlp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioedlp&" alt="ignacioedlp" /></p>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignacioedlp&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ignacioedlp" />
+
 
 
 
