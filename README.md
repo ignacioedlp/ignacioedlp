@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,flutter,bootstrap,css,docker,firebase,express,nodejs,git,heroku,html,bash,linux,mongodb,mysql,nextjs,postgresql,redux,typescript,graphql,ruby" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,flutter,bootstrap,css,docker,firebase,express,nodejs,git,html,bash,linux,mongodb,mysql,nextjs,postgresql,redux,typescript,graphql,ruby,tailwindcss" />
   </a>
 </p>
 
