@@ -6,9 +6,9 @@
   
 
 
-- 🔭 I’m currently working on **Lofty**
+- 🔭 I’m currently working on **Lofty** and **5out**
 
-- 👯 I’m looking to collaborate on **Sinaptia & Alliants**
+- 👯 I’m looking to collaborate on **@Sinaptia & @Alliants**
 
 - 👨‍💻 All of my projects are available at [https://ignacio-cafiero.vercel.app](https://ignacio-cafiero.vercel.app)
 
