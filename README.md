@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ignacio-cafiero.vercel.app](https://ignacio-cafiero.vercel.app)
 
-- 💬 Ask me about **React, NextJs, Flutter and NodeJs**
+- 💬 Ask me about **React, NextJs, Flutter, NodeJs and Ruby**
 
 - 📫 How to reach me **ignaciocafiero12@gmail.com**
 
@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,flutter,bootstrap,css,docker,firebase,express,nodejs,git,heroku,html,bash,linux,mongodb,mysql,nextjs,postgresql,redux,typescript,graphql" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,flutter,bootstrap,css,docker,firebase,express,nodejs,git,heroku,html,bash,linux,mongodb,mysql,nextjs,postgresql,redux,typescript,graphql,ruby" />
   </a>
 </p>
 
