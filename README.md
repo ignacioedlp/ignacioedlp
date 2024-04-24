@@ -6,7 +6,17 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [5-Out](https://www.5out.io)<br><br>- 👯 I’m looking to collaborate on [Sinaptia & Alliants](https://es.alliants.com)<br><br>- 👨‍💻 All of my projects are available at [https://ignaciocafiero.vercel.app](https://ignaciocafiero.vercel.app)<br><br>- 💬 Ask me about **React, Ruby on Rails, Flutter and NodeJs**<br><br>- 📫 How to reach me **ignaciocafiero12@gmail.com**<br><br>- ⚡ Fun fact **I have a cat and I love do Crossfit.**</p>
+- 🔭 I’m currently working on [5-Out](https://www.5out.io)
+
+- 👯 I’m looking to collaborate on [Sinaptia & Alliants](https://es.alliants.com)
+
+- 👨‍💻 All of my projects are available at [https://ignaciocafiero.vercel.app](https://ignaciocafiero.vercel.app)
+
+- 💬 Ask me about **React, Ruby on Rails, Flutter and NodeJs**
+
+- 📫 How to reach me **ignaciocafiero12@gmail.com**
+
+- ⚡ Fun fact **I have a cat and I love do Crossfit.**
 
 ###
 
