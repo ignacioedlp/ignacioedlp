@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A Full-Stack Developer & Analyst Programmer at Sinaptia & Alliants, with 2 years of experience in the spanish and english speaking environment</h3>
+<h3 align="left">A Full-Stack Developer & Analyst Programmer at Sinaptia & Alliants, with 5 years of experience in the spanish and english speaking environment</h3>
 
 ###
 
